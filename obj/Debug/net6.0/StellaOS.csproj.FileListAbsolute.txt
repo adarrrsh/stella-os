@@ -1,0 +1,12 @@
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\bin\Debug\net6.0\StellaOS.deps.json
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\bin\Debug\net6.0\StellaOS.dll
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\bin\Debug\net6.0\StellaOS.pdb
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\StellaOS.csproj.AssemblyReference.cache
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\StellaOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\StellaOS.AssemblyInfoInputs.cache
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\StellaOS.AssemblyInfo.cs
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\StellaOS.csproj.CoreCompileInputs.cache
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\StellaOS.dll
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\refint\StellaOS.dll
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\StellaOS.pdb
+C:\Users\Deepanshu\source\repos\StellaOS\StellaOS\StellaOS\obj\Debug\net6.0\ref\StellaOS.dll
